@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>UILaunchStoryboardName</key>
+    <string>LaunchScreen</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Für die Ortung wird der Zugriff auf den aktuellen Standort benötigt.</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>CFBundleIdentifier</key>
+	<string></string>
+	<key>NSCameraUsageDescription</key>
+	<string>Um AR verwenden zu können wird der Zugriff auf die Kamera benötigt.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Um erstellte Bilder speichern zu können benötigt die App Zugriff auf das Fotoalbum.</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+</dict>
+</plist>
