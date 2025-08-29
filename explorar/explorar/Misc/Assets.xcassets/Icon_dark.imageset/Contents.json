@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "ExplorAR App Icon-03_dark.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "ExplorAR App Icon-03_dark 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "ExplorAR App Icon-03_dark 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
